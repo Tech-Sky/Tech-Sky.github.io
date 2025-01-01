@@ -1,6 +1,7 @@
 ---
-layout: default
-title: "我的第一篇博客"
+layout: post
+title: Welcome to Tech Sky
 date: 2025-01-01
 ---
-这是我的第一篇博客，用 Jekyll 搭建！
+
+This is the first blog post on your new Jekyll site. Customize it as you like!
