@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "我的第一篇博客"
 date: 2025-01-01
 ---
